@@ -88,23 +88,25 @@ While the length of the students_in_poetry list is less than 6, use .pop() to ta
 25)In script, we have made a function for you called sing_song. Call this function once to see what it prints out.
 Now call sing_song a second time.(repeat)
 
-26))Write a function named same_values() that takes two lists of numbers of equal size as parameters.
+26)This script basically recommends the cheapest mode available in a list of 3 shipping modes.
+
+27))Write a function named same_values() that takes two lists of numbers of equal size as parameters.
 The function should return a list of the indices where the values were equal in lst1 and lst2(samevalues)
 
-27)Calculates dad's and son's age(sons&dadsage)
+28)Calculates dad's and son's age(sons&dadsage)
 
-28)Strings methods
+29)Strings methods
 
-29)stdents_grades_using_class
+30)stdents_grades_using_class
 
-30)super keyword in class
+31)super keyword in class
 
-31)We have provided a list of temperatures in celsius. 
+32)We have provided a list of temperatures in celsius. 
 Using a list comprehension, create a new list called fahrenheit that converts each element in the celsius list to fahrenheit.
 *Note: * To convert, use the formula:
 temperature_in_fahrenheit = temperature_in_celsius * 9/5 + 32(tempusinglst)
 
-32)Try and except.
+33)Try and except.
 
 
 
