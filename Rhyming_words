@@ -1,4 +1,6 @@
 main.js
+
+
 // Information to reach API
 const url = 'https://api.datamuse.com/words?';
 const queryParams = 'rel_rhy=';
@@ -40,6 +42,8 @@ submit.addEventListener('click', displaySuggestions);
 
 
 helperFunctions.js
+
+
 / Formats response to look presentable on webpage
 const renderResponse = (res) => {
   // handles if res is falsey
